@@ -1,0 +1,4 @@
+streamlit>=1.37
+requests>=2.31
+XlsxWriter>=3.1
+tzdata
